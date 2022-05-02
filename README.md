@@ -1,4 +1,4 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/H1M4N5HU0P/MAFIA-BOT/dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/LinixPapa/MAFIA-BOT/dashboard)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/MafiaBotOP/MafiaBotOP)
 [![HitCount](http://hits.dwyl.com/MafiaBotOP/MafiaBotOP.svg)](http://hits.dwyl.com/MafiaBotOP/MafiaBotOP)
@@ -9,7 +9,7 @@
 # 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_Badass. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
+MafiaBot made by @LinixPapa. Supported by respective hellbot owner @Kraken_The_Badass. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
 [![MAFIABOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/MafiaBot_Support)
 
 
@@ -52,7 +52,7 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/H1M4N5HU0P/MAFIA-USERBOT.git
+git clone https://github.com/LinixPapa/MAFIA-USERBOT.git
 cd MAFIA-USERBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -110,7 +110,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 H1M4N5HU0P
+Copyright (C) 2021 LinixPapa
 
 Poject [MAFIABOT](https://github.com/MafiaBotOP/MafiaBotOP) is free software: you can redistribute it and/or modify
 
